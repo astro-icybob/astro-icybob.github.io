@@ -5,5 +5,5 @@ title: ICYBOB
 
 Blah _blah_ 
 
-- [Members](members.md)
+- [Members](members)
 - [Research areas](research.md)

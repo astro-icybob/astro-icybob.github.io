@@ -7,3 +7,5 @@ navigation:
   - {name: 'Members', link: '/members.md'}
   - {name: 'Research', link: '/research.md'}
   - {name: 'Contact', link: '/contact.md'}
+
+theme: jekyll-theme-modernist

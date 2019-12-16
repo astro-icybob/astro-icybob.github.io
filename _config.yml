@@ -1,3 +1,9 @@
 theme: jekyll-sleek
 title: ICYBOB
 description: Initial Conditions of YMCs, Birth of OB associations and long term evolution of stellar clusters
+# THEME SETTINGS
+navigation:
+  - {name: 'Home', link: '/'}
+  - {name: 'Members', link: '/members.md'}
+  - {name: 'Research', link: '/research.md'}
+  - {name: 'Contact', link: '/contact.md'}

@@ -31,7 +31,7 @@ img/* menu */
 .menu_nav ul li.active a, .menu_nav ul li a:hover { color:#00b2e8; background:url(menu_a.gif) no-repeat center top;}
 
 /* content */
-.content_resize { padding-right:0; padding-top:16px; width:auto;}
+.content_resize { padding-right:0; padding-top:16px; width:930px;}
 .content .mainbar { float:left; width:630px;}
 .content .mainbar img { margin-bottom:24px; padding:4px; border:1px solid #b7b7b7; background-color:#fff;}
 .content .mainbar img.fl { float:center; margin-right:12px;}
